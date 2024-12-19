@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/1185818338_3190553548_223132457.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_3890345977_4045090428.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_1453109440_3600792953.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_3890345977_1698097375.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_926531105_2597712429.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_3890345977_4079121688.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_584146615_1846271469.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_3890345977_374371728.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/what_is_an_array/480p15/partial_movie_files/ArrayExample/624642324_1921203974_2987542364.mp4'

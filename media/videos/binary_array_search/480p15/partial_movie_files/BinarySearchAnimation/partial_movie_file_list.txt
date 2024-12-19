@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/1185818338_824417791_223132457.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_503375167_4178854260.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_3890345977_3065637423.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_125446297_1921489139.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_2133099654_3607350167.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_1776735017_3098462850.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_2318593819_3098462850.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_875122225_1673554707.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/binary_array_search/480p15/partial_movie_files/BinarySearchAnimation/624642324_1141282389_2589430741.mp4'

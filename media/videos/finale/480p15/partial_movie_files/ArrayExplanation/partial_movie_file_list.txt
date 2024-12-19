@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/1185818338_4138324988_223132457.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_3890345977_3193502879.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_3081897687_4131132508.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_3257661881_17726425.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_3325170540_758497372.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_255102487_2831327287.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_2428104178_648508397.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_255102487_2531612125.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_2981334647_2353627841.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_255102487_2710511424.mp4'
+file 'file:/Users/gmtange/Projects/learning/manim-learning/media/videos/finale/480p15/partial_movie_files/ArrayExplanation/624642324_1226323398_4164840607.mp4'
